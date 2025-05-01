@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>You Caught a Bug!</title>
+  <style>
+    body {
+      background-color: #fffbe6;
+      color: #333;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    .bug {
+      font-size: 4rem;
+    }
+    .message {
+      font-size: 1.5rem;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+    a {
+      text-decoration: none;
+      color: #0077cc;
+    }
+  </style>
+</head>
+<body>
+  <div class="bug">🐞</div>
+  <h1>You Caught a Bug!</h1>
+  <div class="message">
+    Nice catch! Spotting this means you’ve got a tester’s eye — just what every team needs.
+    <br><br>
+    <em>Imagine what I’ll find in your app 😉</em>
+    <br><br>
+    <a href="https://github.com/salonijain12345" target="_blank">Back to My Projects</a>
+  </div>
+</body>
+</html>
